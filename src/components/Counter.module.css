@@ -1,0 +1,13 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.counter span {
+    padding: 2px 8px;
+    background-color: var(--gray-400);
+    border-radius: 40px;
+    color: var(--gray-100);
+}
